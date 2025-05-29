@@ -12,6 +12,8 @@
 
 void	ft_putchar(char c);
 
+///ft_print_alphabet: Print alphabet using putchar;
+
 void	ft_print_alphabet(void)
 {
 	char	c;

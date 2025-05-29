@@ -12,6 +12,8 @@
 
 void	ft_putchar(char c);
 
+///ft_is_negative: If negative print 'N', if positive print 'P';
+
 void	ft_is_negative(int n)
 {
 	char	c;

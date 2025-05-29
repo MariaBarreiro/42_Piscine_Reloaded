@@ -10,6 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+///ft_ft: Takes a pointer to int as a parameter and sets the value to "42";
+
 void	ft_ft(int *nbr)
 {
 	nbr[0] = 42;

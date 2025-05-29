@@ -12,6 +12,8 @@
 
 void	ft_putchar(char c);
 
+///ft_print_numbers: Print numbers using putchar;
+
 void	ft_print_numbers(void)
 {
 	char	c;

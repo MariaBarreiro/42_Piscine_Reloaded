@@ -10,6 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+///ft_swap: Swaps the value of 2 int whose adresses are entered as parameters;
+
 void	ft_swap(int *a, int *b)
 {
 	int	temp;
