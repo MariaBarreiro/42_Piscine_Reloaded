@@ -1,6 +1,7 @@
 # Piscine Reloaded
 
 ![Score](https://img.shields.io/badge/Score-100%2F100-lightgrey)
+
 > *Back to the basics of C and what we learned during the Piscine*
 > *(a [42 School](https://www.42.fr) intensive week before the beginning of the Common Core)*
 
@@ -8,7 +9,6 @@
 
 ## Table of Contents
 
-* [About 📌](#about)
 * [Structure 📂](#structure)
 ---
 
@@ -45,6 +45,6 @@ Each exercise lives in its own folder with a concise summary:
 * **ex26 – ft\_count\_if**: count elements matching a condition.
 * **ex27 – display\_file**: read and display a file’s contents.
 
-```
+
 
 ---
