@@ -7,11 +7,6 @@
 
 ---
 
-## Table of Contents
-
-* [Structure 📂](#structure)
----
-
 ## Structure 📂
 
 Each exercise lives in its own folder with a concise summary:
